@@ -1,0 +1,134 @@
+html{scroll-behavior: smooth;}
+.one{
+  background-image: url("banner-bg.jpg");
+  width: ;
+  height: 988px;
+  border-bottom-right-radius: 300px; 
+  
+}
+ .two {
+font-size: 40px;
+color: white;
+margin-top: -56px;
+margin-left: 120px;
+ }
+
+ul{
+  display: flex;
+  margin-left: 300px;
+ list-style-type: none;
+}
+
+ li a{
+   text-decoration:none;
+   color: white;
+  
+}
+ul li {
+  margin-top: 38px;
+  margin-left: 45PX;
+  font-size: 20px;
+}
+li a:hover{
+background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 30px;
+}
+#inp{
+  width: 198px;
+  height: 40px;
+  border-radius:60px ;
+  background-color: rgba(255, 255, 255, 0.3);
+  border: none; 
+}
+#i{
+  color: white; 
+  transform: translate(-32px );
+ }
+.pho{
+  background-image: url("banner-item-01.jpg");
+  width: 980px;
+   height: 700px;
+   transform: translate(250px);
+   border-radius: 20px;
+  margin-top: 63px;
+  display: flex;
+ }
+
+ 
+  .p{
+  margin-top: 89px; 
+ background-color: blue;
+ height: 25px;
+ border-radius: 24px;
+ width: 130px;
+ text-align: center;
+ font-size: 20px;
+ margin-left: 100px;
+ color: white;
+
+}
+.with{
+  margin-top: 180px; 
+  color: white;
+  font-size: 40px;
+  margin-left: -140px;
+ 
+}
+.sol{
+  margin-top: 430px; 
+  color: white;
+  margin-left: -220px;
+}
+.req{
+  margin-top: 560px; 
+  color:rgb(117, 36, 194);
+  margin-left: -410px;
+ font-size: 15px;
+ background-color: aliceblue;
+ height: 40px;
+ width: 150px;
+ text-align: center;
+ border-radius: 25px;
+ display: flex;
+ justify-content: center;
+ justify-items: center;
+ align-items: center;
+}
+ .wat{
+  margin-top: 560px; 
+  color: white;
+  margin-left: 40px;
+ 
+ }
+ @media screen {
+  
+ }
+ /* parti2*/
+ .services{
+  margin: 0;
+ }
+ #pictur{
+  margin-top: 20%;
+  height: 50%px;
+  
+  background-color:blue;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
